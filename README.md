@@ -51,6 +51,4 @@ Future Improvements
 - Expand the dataset to include user demographics and feedback.
 - Enhance visualizations with interactive tools like Plotly or Dash.
 
-Acknowledgments
-Special thanks to Zomato for providing the dataset and the open-source tools that made this analysis possible.
 
